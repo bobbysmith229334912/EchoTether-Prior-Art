@@ -1,0 +1,22 @@
+# EchoTether — Concept (Non-Technical)
+
+## Summary
+EchoTether is a geo-social system where people can leave and discover location-bound digital traces (“whispers”) tied to real-world places. The experience is designed to feel human, local, and privacy-first — like memory drops anchored to the world.
+
+## Core objects
+- **Whisper:** a location-bound post that can include text and optional media.
+- **Tether Zone:** the real-world radius/area where a whisper is discoverable.
+- **Visibility Rules:** controls that determine who can see or interact with a whisper.
+- **Safety Layer:** moderation + reporting flows designed for real-world context.
+
+## Key behaviors (high level)
+1. Users create a whisper and attach it to a real-world place.
+2. Whispers become discoverable when other users enter the tether zone.
+3. The experience can be presented as a map feed and/or as an AR/spatial overlay.
+4. Users can optionally attach value (rewards, drops, paid unlocks, etc.) while maintaining safety and privacy constraints.
+
+## Principles
+- **Privacy-first:** location use is intentional; users control visibility.
+- **Real-world context:** designs assume real people in real places.
+- **Community-owned feel:** value accrues to user activity and local presence.
+- **Minimal disclosure:** implementation details are intentionally omitted here.
